@@ -1,0 +1,20 @@
+extracted_transactions.csv
+Gpay_data (1).pdf
+Gpay_data.pdf
+ocr_output_test.csv
+Paytm_data.pdf
+Paytm_one_month_data.pdf
+paytm_transactions_final.csv
+temp_uploaded.pdf
+transactions_categorized_gpay.csv
+transactions_corrected_gpay.csv
+transactions_training.csv
+db.py
+venv
+uploads
+reports
+out_master
+out
+assets
+.vscode
+__pycache__
